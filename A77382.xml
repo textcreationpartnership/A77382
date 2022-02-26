@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Folly and envy detected: in some brief observations on a late scandalous pamphlet, subscribed by D.S. intituled, An answer to several passages, citations and charges, in a book published by Fran. Bugg, styled, New Rome arraigned, &amp;c. / By R. Bridgman.</title>
+            <author>Bridgman, Robert.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 10 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77382</idno>
+            <idno type="STC">Wing B4493</idno>
+            <idno type="STC">ESTC R170797</idno>
+            <idno type="EEBO-CITATION">45578182</idno>
+            <idno type="OCLC">ocm 45578182</idno>
+            <idno type="VID">172137</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77382)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172137)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2615:32)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Folly and envy detected: in some brief observations on a late scandalous pamphlet, subscribed by D.S. intituled, An answer to several passages, citations and charges, in a book published by Fran. Bugg, styled, New Rome arraigned, &amp;c. / By R. Bridgman.</title>
+                  <author>Bridgman, Robert.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed and sold by T. Sowle, near the meeting:house in White-Hart-Court in Grace-Church-Street, and at the Crooked-Billet in Holywell-Lane near Shoreditch,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Friends' Library, London, England.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>D. S. --  Answer to several passages, citations or charges, in a book, lately publish'd by F. Bugg, styled New Rome arraigned.</term>
+               <term>Bugg, Francis, 1640-1724? --  New Rome arraigned.</term>
+               <term>Quakers --  Apologetic works.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172137:1" rendition="simple:additions"/>
+            <p>Folly and Envy DETECTED: In ſome Brief Obſervations on a Late Scandalous Pamphlet, Subſcri<g ref="char:EOLhyphen"/>bed by <hi>D. S.</hi> Intituled, <hi>An Anſwer to ſeveral Paſſages, Citations and Charges, in a Book publiſhed by <hi>Fran. Bugg,</hi> Styled,</hi> New Rome Arraigned, <hi>&amp;c.</hi>
+            </p>
+            <p>By <hi>R. Bridgman.</hi>
+            </p>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>Prov. 10.18.</hi>
+                  </bibl> He that hideth Hatred with lying Lips, and he that uttereth a Slander, is a Fool.</p>
+            </q>
+            <q>
+               <p>
+                  <bibl>
+                     <hi>James 3.16.</hi>
+                  </bibl> —Where Envying and Strife is, there is Confuſion, and every Evil Work.</p>
+            </q>
+            <p>
+               <hi>London,</hi> Printed and Sold by <hi>T. Sowle,</hi> near the <hi>Meeting-houſe</hi> in <hi>White-Hart-Court</hi> in <hi>Grace-Church-Sreet,</hi> and at the <hi>Crooked-Bil<g ref="char:EOLhyphen"/>let</hi> in <hi>Holywell-Lane</hi> near <hi>Shoreditch,</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172137:2"/>
+            <pb n="3" facs="tcp:172137:2"/>
+            <head>
+               <hi>Folly and Envy Detected,</hi> &amp;c.</head>
+            <p>THE Author tells us, <hi>He has for ſeveral Years obſerved divers Contentious Books writ by</hi> Fran. Bugg <hi>and</hi> Geo. Whitehead <hi>one againſt the other; which having read, proceeds to give his Sence of the Matter.</hi>
+            </p>
+            <p n="1">1. <hi>He apprehends the tendency of</hi> F. B's <hi>ſtriving, is to have ſeveral Errors Re<g ref="char:EOLhyphen"/>tracted and Condemned.</hi>
+            </p>
+            <p n="2">2. <hi>That</hi> Geo. Whitehead<hi>'s Contenti<g ref="char:EOLhyphen"/>on is to Cover and Cloak many Errors and Weakneſſes, which he and all True Chriſti<g ref="char:EOLhyphen"/>ans ought to Condemn,</hi> &amp;c.</p>
+            <p>He proceeds to tell us, <hi>That Brevity is deſigned by him, and what he writes is done in order, (if happily it might be ſo) to appeaſe the Fury of an Inraged Adverſary,</hi> meaning <hi>F. B.</hi>
+            </p>
+            <p>But this his Senſe and Apprehenſion, he Impoſeth upon his Reader without any due Proof or Rational Conſequence.</p>
+            <pb n="4" facs="tcp:172137:3"/>
+            <p>He confeſſeth <hi>F.B.</hi> is <hi>a provoked and an inraged Adverſary,</hi> and I may add, that he is a great and declared Apoſtate, ſufficiently manifeſt to be ſo, by thoſe Books, (which this Author confeſſeth he has Read.)</p>
+            <p>Now with what good Reaſon or Con<g ref="char:EOLhyphen"/>ſcience can any apprehend the tendency of <hi>F. B</hi>'s ſtriving, is to have ſeveral Er<g ref="char:EOLhyphen"/>rors Retracted and Condemned? Is it likely a Perſon gone into ſo much Error, Envy and Rage, ſhould ſtrive, or be Zealous to have Truth cleared from Er<g ref="char:EOLhyphen"/>ror?</p>
+            <p>And could <hi>D. S.</hi> fall upon no better expedient to appeaſe the Fury of ſuch an inraged Adverſary, than to join Iſſue with him, in his furious attempts upon the Religious Reputations of both the Liv<g ref="char:EOLhyphen"/>ing and the Dead; Men that have Ha<g ref="char:EOLhyphen"/>zarded, and ſome even laid down their Lives in the Service and Defence of the Bleſſed Truth.</p>
+            <p>Is this like the Office of a true Peace<g ref="char:EOLhyphen"/>maker, or Mark of a true Chriſtian Qua<g ref="char:EOLhyphen"/>ker, as this <hi>D. S.</hi> would be eſteemed; but his Folly is manifeſt, and the burden
+<pb n="5" facs="tcp:172137:3"/>of his Iniquity muſt be laid upon his own Head.</p>
+            <p>He Blames <hi>F. B.</hi> for <hi>Ra<g ref="char:EOLhyphen"/>king in the Aſhes of the Dead,</hi>
+               <note place="margin">
+                  <hi>Compare p.</hi> 4. <hi>with p.</hi> 7, 9, 10, <hi>and</hi> 11.</note> (as he Terms it) and himſelf is found in the ſame Work; he blames <hi>F. B.</hi> for <hi>Reproaching a People that be<g ref="char:EOLhyphen"/>lieves all things according to Scripture, and would not have him vilifie any part of their Society upon the ſcore of the Igno<g ref="char:EOLhyphen"/>rance or Folly of any pretended Member;</hi> yet himſelf upon no better ſcore or proof than a perhaps, or for ought he knows, vilifies ſome, or a part of the ſame So<g ref="char:EOLhyphen"/>ciety, and that with no leſs than deny<g ref="char:EOLhyphen"/>ing him that was Born of the Virgin <hi>Mary,</hi> to be Chriſt the Saviour of the World. He tells <hi>F.B.</hi> That if at any time he has found any Man or Men un<g ref="char:EOLhyphen"/>der the Name of a Quaker guilty of Er<g ref="char:EOLhyphen"/>ror of any kind, relating to the Chriſtian Religion, that he ought to pray to God on their behalf; and yet himſelf de<g ref="char:EOLhyphen"/>clares, That if at any time any pretend<g ref="char:EOLhyphen"/>ed Member that may be Dead, <hi>or yet is in Being,</hi> did ever deny Jeſus of <hi>Naza<g ref="char:EOLhyphen"/>reth</hi>
+               <pb n="6" facs="tcp:172137:4"/>to be the Saviour of the World, he is Diſowned for the ſame, and deemed no leſs than guilty of <hi>Blaſphemy in the ſuperlative degree,</hi> which I affirm, ac<g ref="char:EOLhyphen"/>cording to Scripture, is a Sin ought not to be prayed for, it not having the Pro<g ref="char:EOLhyphen"/>miſe of Forgiveneſs either in this World, or in that which is to come.</p>
+            <p>What Contradiction and Confuſion is here, and how much unlike a Chri<g ref="char:EOLhyphen"/>ſtian Quaker to vilifie, ſome (or a part of their Society) upon no better proof than a perhaps, or for ought he knows?</p>
+            <p>May I not with the ſame ſort of Rea<g ref="char:EOLhyphen"/>ſon argue againſt him, that perhaps, or for ought I know, it may be undenia<g ref="char:EOLhyphen"/>bly proved upon him, that he is a Thief or a Murderer; to be ſure, if a profeſſed Quaker, a very falſe and treacherous Brother?</p>
+            <p>All the proof he brings againſt <hi>G. W.</hi> is <hi>F. B</hi>'s Charges and Accuſations, with his own poſitive Senſe and Judgment, and yet even in that, he is alſo found inconſiſtent with himſelf; for tho' in the beginning he apprehends <hi>G.W</hi>'s Con<g ref="char:EOLhyphen"/>tention (as he calls it) is to Cover and
+<pb n="7" facs="tcp:172137:4"/>Cloak many Errors, <hi>&amp;c.</hi> yet in his An<g ref="char:EOLhyphen"/>ſwer to the Second Objection, page 6. <hi>G. W.</hi> is <hi>but ſuppoſed to be guilty in part;</hi> and adds, that it's hoped he may ſee his weakneſs in ſo doing; but ſtill no in<g ref="char:EOLhyphen"/>ſtance produced, wherein <hi>G.W.</hi> has been either weak, or wicked, which to Co<g ref="char:EOLhyphen"/>ver or Cloak many and groſs Errours, muſt be.</p>
+            <p>However, it ſeems 'tis his <hi>Senſe and Judgment,</hi> and ſo it is, <hi>that Light and Darkneſs are manifeſt Beings,</hi> which as much beſpeaks his Skill in Philoſophy, as the other does his Title to Chriſtianity.</p>
+            <p>Yet he would ſeem tender of the Chri<g ref="char:EOLhyphen"/>ſtian Religion, giving it as <hi>his Senſe and Judgment,</hi> p. 3. <hi>That the many Books of Contention, writ by</hi> G. W. <hi>and others, has done much hurt to it, and would be glad if it ſhould pleaſe God to put it into the Hearts of the Governours and Rulers of the Nation to condemn them, and order them all to be Burnt.</hi> Then no need of <hi>Explanations</hi> and <hi>Emendations</hi> Requeſted in the Poſtſcript.</p>
+            <pb n="8" facs="tcp:172137:5"/>
+            <p>But why muſt they be Burnt? The Matter (it ſeems) is Diſtaſteful; Apo<g ref="char:EOLhyphen"/>ſtates and Unruly Spirits like not to have their Fruits made manifeſt, and their Rebellion againſt the Light rebuked; and that which would have the Books Burnt, in all probability in its next ſtep would have the Authors Burnt alſo, leſt there ſhould be any more ſuch Books.</p>
+            <p>But he proceeds in Anſwer to another of <hi>F. B</hi>'s. Accuſations againſt <hi>G. Whitehead,</hi> page 6th. <hi>Object.</hi> 3. wherein <hi>G. W.</hi> is accuſed for endeavouring to cover ſe<g ref="char:EOLhyphen"/>veral Errors in ſome Perſons in <hi>Penſil<g ref="char:EOLhyphen"/>vania. D. S.</hi> in Anſwer inſinuates, <hi>that if</hi> G. W. <hi>or any others do wink or connive at the aforeſaid blaſphemous expreſſions,</hi> (cited by F. B.) <hi>he or they are Judged to be equally guilty with them.</hi>
+            </p>
+            <p>Now to ſhew the Diſingenuity of this <hi>D. S.</hi> who 'tis ſuppoſed has Read the Yearly Meeting Paper, (which he ſo much Inveighs againſt, <hi>p.</hi> 15.) where<g ref="char:EOLhyphen"/>in no doubt he believes <hi>G. W.</hi> with o<g ref="char:EOLhyphen"/>thers were concerned: 'Tis therein de<g ref="char:EOLhyphen"/>clared,</p>
+            <pb n="9" facs="tcp:172137:5"/>
+            <p>
+               <q>That if there be any <hi>Groſs Errors,</hi> &amp;c. held by any profeſſing Truth in <hi>America;</hi> ſuch Perſons ought to be diligently Inſtructed and Admoniſhed by faithful Friends in thoſe Parts; and if they ſhall wilfully perſiſt after being duly informed, then ſuch are to be dealt with according to Goſpel Or<g ref="char:EOLhyphen"/>der.</q>
+            </p>
+            <p>Does this look like indeavouring to cover any ſuch groſs Errors, or doth adviſing ſuch to be duly Inſtructed and Admoniſhed, and upon their wilful per<g ref="char:EOLhyphen"/>ſiſtance, to be further dealt with accord<g ref="char:EOLhyphen"/>ing to Goſpel Order, look like Conni<g ref="char:EOLhyphen"/>ving or Winking at them; away with ſuch Malicious Inſinuations.</p>
+            <p>But this <hi>D. S.</hi> (who, in a Malapart Pragmatical ſtile, would be deemed, the Repreſentative of the True Chriſti<g ref="char:EOLhyphen"/>an <hi>Quakers<g ref="char:punc">▪</g>
+               </hi> is for Cenſuring and Ex<g ref="char:EOLhyphen"/>comunicating (Pope like) without the conſent of the Church, and that not on<g ref="char:EOLhyphen"/>ly many that are alive, but even ſeveral that are dead. For,</p>
+            <p>He charges (upon <hi>F. B's.</hi> Accuſation) ſeveral Eminent, Ancient Friends, <hi>p.</hi> 9,
+<pb n="10" facs="tcp:172137:6"/>10, 11. with no leſs than great and high Blaſphemy, particularly <hi>G Fox, Joſiah Coal, J. Audland,</hi> and <hi>James Parnell,</hi> Men that were great ſufferers for Truth, and who (being deceaſed) laid down their heads in Peace, and were never diſ<g ref="char:EOLhyphen"/>owned by any Chriſtian <hi>Quaker;</hi> but were ſincerely Loved and Eſteemed by them, and their Innocency being already elſewhere vindicated (and that in ſome of thoſe Books, this Author would ſo gladly have Burnt) I need ſay the leſs, but refer to them; ſuppoſing there may have been ſome defect in Expreſſion: by which means the matter has not been left ſo well guarded againſt the Ex<g ref="char:EOLhyphen"/>ceptions of Malicious Cavillers, who, no doubt (were it not for the general Authority of the Holy Scriptures) would be as ready to make their Exceptions, againſt many Sentences or Expreſſions therein alſo.</p>
+            <p>But I would fain know why it muſt be deemed (by <hi>D. S.</hi>) ſuch a great weakneſs in <hi>G. Fox,</hi> to ſet his Name to the Book called the Battle-door, wherein ſome other Men, more Learned in thoſe
+<pb n="11" facs="tcp:172137:6"/>many Languages were alſo concerned; muſt he not tho (as this <hi>D. S.</hi> ſcornfully ſuggeſts) he was a Shooe-maker, and bred an Illiterate Man, (which 'tis likely enough, to uſe his own Phraſe, <hi>he knew not but by Hiſtory or Tradition:</hi>) I ſay muſt it therefore follow that <hi>G. F.</hi> knew not the ſignification of <hi>Tu Nos &amp; Vos,</hi> But <hi>Even as a Parrot</hi> (which this Au<g ref="char:EOLhyphen"/>thor ſays <hi>Can well Talk ſo far as he hath been Taught.</hi>
+            </p>
+            <p>'Tis true, a Parrot may be Taught to ſpeak <hi>Tu, nos &amp; vos;</hi> but I preſume 'tis above the skill of this Doctor to Teach a Parrot the ſignification of <hi>Tu nos &amp; vos,</hi> which no doubt <hi>G. Fox</hi> had, as well as alſo ſome knowledge of the <hi>He<g ref="char:EOLhyphen"/>brew</hi> Tongue.</p>
+            <p>Again in his Anſwer to <hi>F. B</hi>'s. charge recited by him, againſt <hi>Iſaac Penington, D. S.</hi> poſitively charges the matter of the ſaid Citation <hi>as an undeniable Error in</hi> J. P. <hi>proceeding from a defect in his un<g ref="char:EOLhyphen"/>derſtanding, which no doubt</hi> (as he ſaith) <hi>were but that worthy Man,</hi> J. P. <hi>in be<g ref="char:EOLhyphen"/>ing, he would readily retract the ſlip of his Pen, not only in that matter, but in any other of the like Import.</hi>
+            </p>
+            <pb n="12" facs="tcp:172137:7"/>
+            <p>Methinks then a ſlip of his Pen (were it ſo in <hi>J. P.</hi>) ought not to be charged upon him as an undeniable Error, pro<g ref="char:EOLhyphen"/>ceeding from a defect in his underſtand<g ref="char:EOLhyphen"/>ing; ſo no more ought a ſlip of the Pen, were it ſo in the other Friends above-mentioned, be charged as <hi>Great and High Blaſphemy:</hi> But 'tis plain that the Old Adverſary, and falſe Accuſer of the Bre<g ref="char:EOLhyphen"/>thren is very ready to lay hold on every ſeeming occaſion, to endeavour (through his ſeveral Inſtruments) to blaſt the Re<g ref="char:EOLhyphen"/>putation of theſe Good-men, that the Bleſſing of their Labour and Memory might not Increaſe, or remain among the Living.</p>
+            <p>But ſhould I, or any other be as ready as this <hi>D. S.</hi> or <hi>F. B.</hi> to lay hold upon every ſlip of a Pen, or unguarded Sen<g ref="char:EOLhyphen"/>tence or Expreſſion; we might have and make work enough.</p>
+            <p>For Inſtance, might I not (in ſuch a way of arguing) poſitively charge <hi>D. S.</hi> (whatever Notion he may have of the pre-exiſtence) that he denies or at leaſt queſtions a future Exiſtence, by his ſay<g ref="char:EOLhyphen"/>ing, <hi>If that Worthy Man</hi> (J. P.) <hi>were in
+<pb n="13" facs="tcp:172137:7"/>being,</hi> as if after Death there was no be<g ref="char:EOLhyphen"/>ing or exiſtence; but I am not either ſo Captious, or Uncharitable towards him in that Matter.</p>
+            <p>Again in his Third Page, <hi>He deſires every true Believer in Chriſt Jeſus, and Follower of him, that they would bear his Image;</hi> as if he may be truly Believed in and followed, and his Image not born: Does not this at beſt appear to be a ſlip of his Pen? And yet how ready is <hi>D. S.</hi> to mark out ſuch in others.</p>
+            <p>As to this frequent profeſſing Faith in Jeſus of <hi>Nazareth,</hi> and therein di<g ref="char:EOLhyphen"/>ſtinguiſhing, himſelf and others to be the moſt or only Chriſtian <hi>Quakers,</hi> ſo long as he or they ſhew forth no better Fruits, to what purpoſe is it to take any notice of their Faith.</p>
+            <p>And notwithſtanding he is ſo ready, to refer and recommend ſuch as he would have know more of the Quakers Faith, to the firſt part of a little Treatiſe, In<g ref="char:EOLhyphen"/>tituled the <hi>Principles of Truth;</hi> Written by <hi>J. Crooke.</hi> Tis plain enough, what<g ref="char:EOLhyphen"/>ever be his talk, or knowledge, he is but little acquainted with the True Chriſtian
+<pb n="14" facs="tcp:172137:8"/>Quakers Faith, which is attended with Chriſtian Charity, and teacheth to exer<g ref="char:EOLhyphen"/>ciſe a Conſcience void of offence both towards God, and towards Man.</p>
+            <closer>
+               <dateline>
+                  <hi>London,</hi> 
+                  <date>
+                     <hi>Octob.</hi> 11. 1694.</date>
+               </dateline>
+               <signed>Robert Bridgman.</signed>
+            </closer>
+         </div>
+         <div type="postscript">
+            <head>A <hi>POSTSCRIPT</hi> by way of Caution and Conſideration.</head>
+            <p>WHereas <hi>D. S.</hi> in his Poſtſcript ſeems to requeſt all thoſe that are living, whoſe former or latter Wri<g ref="char:EOLhyphen"/>tings are in any ſort Defective; that they would write <hi>Explanations and E<g ref="char:EOLhyphen"/>mendations</hi> upon them, as alſo on thoſe of which the Authors may be Dead, <hi>(yet in his Third Page declares) that he would be glad if God would put it into the Hearts of the Governours and Rulers of the Nations to Condemn them, and order them all to be Burnt.</hi> Now I do herein tenderly Caution
+<pb n="15" facs="tcp:172137:8"/>this <hi>D. S.</hi> or any other who may pre<g ref="char:EOLhyphen"/>ſume, to correct or amend what they ſhall apprehend or ſuppoſe to be offenſive; that they be very careful how they detract from the due credit and eſteem of any approved writer, or wri<g ref="char:EOLhyphen"/>ting concerned in Teſtimony to the Bleſſed Truth, leaſt they be found ſo touching the Lord's Anointed as to hurt his Prophets, and juſtly fall un<g ref="char:EOLhyphen"/>der the Reproof of the Hypocrite, who would behold a More in his Bro<g ref="char:EOLhyphen"/>thers Eye, but conſidered not the Beam which was in his own. <hi>Mat.</hi> 7th. 3, 4, and 5, Verſes.</p>
+            <p>And I offer it to <hi>D. S.</hi> his Conſidera<g ref="char:EOLhyphen"/>tion, whether it can be any Evidence of good Breeding, or Chriſtianity, ſo to Reproach and Revile <hi>G. W.</hi> (an Elder in the ſame Profeſſion he pretends to) and that upon no better or other produced Evidence, than that of an Inraged Ad<g ref="char:EOLhyphen"/>verſary, <hi>viz. F. B.</hi> Is it not very Scan<g ref="char:EOLhyphen"/>dalous and Wicked, to publiſh it in print to the World, that <hi>G. W.</hi> is guil<g ref="char:EOLhyphen"/>ty, not only of Covering and Cloaking many Errors, but alſo of being a conti<g ref="char:EOLhyphen"/>nual
+<pb n="16" facs="tcp:172137:9" rendition="simple:additions"/>Contentious Scribler, and guilty of giving Baſe and Scurrilous Language. Doth <hi>D. S.</hi> pretend a Venerable Eſteem of the Scripture, and yet ſo much forget or reject the Apoſtles adviſe, <hi>Not to Re<g ref="char:EOLhyphen"/>buke an Elder, but Intreat him as a Fa<g ref="char:EOLhyphen"/>ther: Nor to Receive an Accuſation a<g ref="char:EOLhyphen"/>gainſt ſuch, but before Two or Three Wit<g ref="char:EOLhyphen"/>neſſes.</hi>
+            </p>
+            <p>Indeed 'tis no wonder <hi>D. S.</hi> has con<g ref="char:EOLhyphen"/>cealed his Name, for he may well be a<g ref="char:EOLhyphen"/>ſhamed of ſuch Work; and I would ad<g ref="char:EOLhyphen"/>viſe him, whoever he be to take the ſhame to himſelf, by <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> publickly ac<g ref="char:EOLhyphen"/>knowledging his Folly, that ſo through unfeigned Repentance he may find Mer<g ref="char:EOLhyphen"/>cy, and learn to do ſo no more.</p>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <head>Advertiſement.</head>
+            <p>SInce the foregoing went to the Preſs, I have ſeen another Pamphlet, Intituled, <hi>Something by way of Reply to a Paper lately pub<g ref="char:EOLhyphen"/>liſhed in the City Mercury,</hi> &amp;c. Signed <hi>G. W.</hi>
+            </p>
+            <p>The foregoing Reproof and Rebuke to <hi>D. S.</hi> may ſerve alſo in Anſwer to that Pa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>; unleſs the Author had wrote ſomething more worth Notice, and put his Name to it.</p>
+            <pb facs="tcp:172137:10"/>
+         </div>
+      </back>
+   </text>
+</TEI>
